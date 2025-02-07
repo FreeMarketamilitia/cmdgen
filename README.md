@@ -80,7 +80,7 @@ cmdgen --setup
 To install `CommandGen`, run the following command:
 
 ```bash
-pip install cmdgen==2.0.0
+pip install cmdgen
 ```
 
 This will install `cmdgen` and automatically add it to your system's `PATH`.
