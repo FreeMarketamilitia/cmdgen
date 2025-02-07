@@ -23,6 +23,23 @@ To use **CommandGen** with the **Google Gemini API**, follow these easy steps:
 Now you're ready to set up **CommandGen** with your shiny new API key! 🎉
 
 
+## 📦 Installation
+
+To install `CommandGen`, run the following command:
+
+```
+pip install cmdgen
+sudo apt-get install xclip
+#pip install grpcio==1.60.1 optional 
+#but if until google updates their package you'll recieve a text warning
+
+```
+
+This will install `cmdgen` and automatically add it to your system's `PATH`.
+
+---
+
+
 ## 🔥 Features
 
 | Feature                           | Purpose                                               |
@@ -75,18 +92,6 @@ cmdgen --setup
 ```
 ---
 
-## 📦 Installation
-
-To install `CommandGen`, run the following command:
-
-```bash
-pip install cmdgen
-#pip install grpcio==1.60.1 optional but if until google updates their package you'll recieve a text warning
-```
-
-This will install `cmdgen` and automatically add it to your system's `PATH`.
-
----
 
 # 🚀 cmdgen: Your AI-Powered CLI Assistant
 
