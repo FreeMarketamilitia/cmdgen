@@ -115,4 +115,4 @@ If it works, you’re all set! 🚀
 
 ## 📝 License
 
-MIT License. Use it, improve it, but don’t blame us if you `rm -rf /` your system. 😆
+MIT License. Use it, improve it, but don’t blame me if you `rm -rf /` your system. 😆
