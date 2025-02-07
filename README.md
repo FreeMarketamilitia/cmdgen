@@ -81,6 +81,7 @@ To install `CommandGen`, run the following command:
 
 ```bash
 pip install cmdgen
+#pip install grpcio==1.60.1 optional but if until google updates their package you'll recieve a text warning
 ```
 
 This will install `cmdgen` and automatically add it to your system's `PATH`.
