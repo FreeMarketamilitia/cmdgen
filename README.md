@@ -39,6 +39,14 @@ This will install `cmdgen` and automatically add it to your system's `PATH`.
 
 ---
 
+### 🔧 Setup Option
+- `--setup`: Initiates the first-time setup for your API key and model selection. After running this command, the model ID will be saved, and setup will be complete. Example:
+
+```
+cmdgen --setup
+```
+---
+
 
 ## 🔥 Features
 
@@ -84,14 +92,6 @@ Here's the updated table format for the example runs, similar to the previous ta
 | `cmdgen --query "list all files" --json` | Output the generated command in JSON format. | `{"command": "ls -al"}` |
 
 ---
-### 🔧 Setup Option
-- `--setup`: Initiates the first-time setup for your API key and model selection. After running this command, the model ID will be saved, and setup will be complete. Example:
-
-```
-cmdgen --setup
-```
----
-
 
 # 🚀 cmdgen: Your AI-Powered CLI Assistant
 
